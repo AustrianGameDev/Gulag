@@ -1,0 +1,20 @@
+{
+  "type": "gulag:gulag_dim",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "gulag:gulag_biome",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "block": "minecraft:stone",
+          "height": 1
+        }
+      ],
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}
